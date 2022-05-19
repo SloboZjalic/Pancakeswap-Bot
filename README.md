@@ -1,6 +1,5 @@
 # Pancakeswap-Bot
 Pancakeswap bot detects newly listed tokens on Pancakeswap and buys them.
-
 Steps
 1. enter your wallet key
 2. enter your secret wallet phrase
